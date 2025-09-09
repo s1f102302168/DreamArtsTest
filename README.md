@@ -8,9 +8,9 @@
 
 ### 標準入力から実行
 python sample2.py
- 入力後に EOF を送信
-    Linux / Mac: Ctrl+D
-    Windows: Ctrl+Z + Enter
+##### 入力後に EOF を送信
+- Linux / Mac: Ctrl+D
+- Windows: Ctrl+Z + Enter
 
 ### 入力ファイルから実行
 
