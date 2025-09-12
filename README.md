@@ -7,7 +7,7 @@
 ## 実行方法
 
 ### 標準入力から実行
-python sample2.py
+python sample.py
 ##### 入力後に EOF を送信
 - Linux / Mac: Ctrl+D
 - Windows: Ctrl+Z + Enter
